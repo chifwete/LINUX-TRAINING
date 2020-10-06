@@ -20,3 +20,4 @@ navigating files
     3.More tutorials from the internet
     
     4. Discussion with colleugues.
+## Different tasks and time that will be used
