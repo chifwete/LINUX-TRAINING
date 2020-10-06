@@ -4,7 +4,7 @@ Familiarization of basic Linux skills.
 
 *Approach we are going to use*
 
-## TOPIS I WILL COVER
+## TOPICS I WILL COVER
 basic shell cripts
 
 loops 
