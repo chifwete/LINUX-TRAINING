@@ -2,7 +2,7 @@
 Familiarization of basic Linux skills.
 
 
-*Approach we are going to use*
+
 
 ## TOPIS I WILL COVER
 basic shell cripts
